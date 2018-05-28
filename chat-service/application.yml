@@ -1,4 +1,1 @@
-eureka:
-  client:
-    service-url:
-      defaultZone: http://discovery-service-tricorn-kgr.cfapps.io/eureka/
+message: debug
